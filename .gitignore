@@ -1,0 +1,14 @@
+target/
+out/
+test/
+
+### OS Files ###
+    ### Windows ###
+
+### Application Files ###
+    ### IntelliJ IDEA ###
+    .idea
+    *.iws
+    *.iml
+    *.ipr
+

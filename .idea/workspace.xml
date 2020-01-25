@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CheckMate:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="462340f9-a58d-4c83-8384-8e9438a0f30e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CheckMate$TestRun.coverage" NAME="TestRun Coverage Results" MODIFIED="1523784902873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.daniasestan.checkmate.ReportUtils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CheckMate$ReportTest.coverage" NAME="ReportTest Coverage Results" MODIFIED="1523739793934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.daniasestan.checkmate.ReportUtils.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CheckMate" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="gitignore global file" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaeeView">
+    <option name="frameworksView" value="false" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WfoV9f89SnXJpHJHDgjGCsQ3qM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Drivers/MicrosoftWebDriver" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.10825983" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DS\Workspace\IdeaProjects" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Drivers/MicrosoftWebDriver" />
+      <recent name="$PROJECT_DIR$/Drivers/GeckoDriver" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/danisestan/checkmate" />
+      <recent name="C:\Users\DS\Workspace\IdeaProjects\CheckMate\src\main\java\com\daniasestan\checkmate" />
+      <recent name="C:\Users\DS\Workspace\IdeaProjects\CheckMate\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestExecution">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.danisestan.checkmate.TestAutomation.TestExecution" />
+      <module name="CheckMate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daniasestan.checkmate.TestAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CheckMate:jar" />
+        </option>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunConfigMaven" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestExecution" type="TestNG">
+      <module name="CheckMate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daniasestan.checkmate.TestAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.daniasestan.checkmate.TestAutomation" />
+      <option name="MAIN_CLASS_NAME" value="com.daniasestan.checkmate.TestAutomation.TestExecution" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestExecution" />
+      <item itemvalue="Maven.RunConfigMaven" />
+      <item itemvalue="TestNG.TestExecution" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestExecution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="462340f9-a58d-4c83-8384-8e9438a0f30e" name="Default" comment="" />
+      <created>1521488657072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521488657072</updated>
+      <workItem from="1521488661426" duration="2145000" />
+      <workItem from="1521500171333" duration="11734000" />
+      <workItem from="1521781552239" duration="3859000" />
+      <workItem from="1521937018848" duration="1757000" />
+      <workItem from="1521940642406" duration="237000" />
+      <workItem from="1522144735320" duration="996000" />
+      <workItem from="1522476744191" duration="797000" />
+      <workItem from="1522477741267" duration="322000" />
+      <workItem from="1523040870907" duration="297000" />
+      <workItem from="1523126502925" duration="7121000" />
+      <workItem from="1523136333644" duration="21229000" />
+      <workItem from="1523236428859" duration="15891000" />
+      <workItem from="1523475183310" duration="723000" />
+      <workItem from="1523561918198" duration="6583000" />
+      <workItem from="1523739611619" duration="8331000" />
+      <workItem from="1523782311896" duration="6803000" />
+      <workItem from="1523922910361" duration="1882000" />
+      <workItem from="1524159545277" duration="13030000" />
+      <workItem from="1524360290071" duration="1440000" />
+      <workItem from="1524384197471" duration="7921000" />
+      <workItem from="1524533001159" duration="10178000" />
+      <workItem from="1525162921504" duration="8473000" />
+      <workItem from="1525744405904" duration="180000" />
+      <workItem from="1525744674734" duration="2249000" />
+      <workItem from="1525913057252" duration="63387000" />
+      <workItem from="1526263287820" duration="31792000" />
+      <workItem from="1526477223856" duration="557000" />
+      <workItem from="1526611629781" duration="493000" />
+      <workItem from="1526708189454" duration="1458000" />
+      <workItem from="1526716087907" duration="303000" />
+      <workItem from="1526716475705" duration="1678000" />
+      <workItem from="1528134964786" duration="778000" />
+      <workItem from="1528597877183" duration="1025000" />
+      <workItem from="1530128350297" duration="23000" />
+      <workItem from="1530128489741" duration="199000" />
+      <workItem from="1530380788579" duration="4945000" />
+      <workItem from="1530985157213" duration="4586000" />
+      <workItem from="1531095776548" duration="75000" />
+      <workItem from="1579550034397" duration="12407000" />
+      <workItem from="1579626395368" duration="5439000" />
+      <workItem from="1579638896736" duration="8214000" />
+      <workItem from="1579692601245" duration="8272000" />
+      <workItem from="1579706042825" duration="1647000" />
+      <workItem from="1579707756856" duration="28477000" />
+      <workItem from="1579740312395" duration="10519000" />
+      <workItem from="1579752504047" duration="2309000" />
+      <workItem from="1579795574514" duration="22492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestExecution_(1) - 2018.04.14 at 18h 23m 55s.xml">
+      <configuration name="TestExecution (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestExecution_(1) - 2018.04.14 at 18h 28m 01s.xml">
+      <configuration name="TestExecution (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestExecution_(1) - 2018.04.14 at 18h 28m 45s.xml">
+      <configuration name="TestExecution (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestExecution_(1) - 2018.04.14 at 18h 35m 31s.xml">
+      <configuration name="TestExecution (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestExecution_(1) - 2018.04.14 at 18h 37m 11s.xml">
+      <configuration name="TestExecution (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestExecution_(1) - 2018.04.14 at 18h 42m 34s.xml">
+      <configuration name="TestExecution (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestExecution_(1) - 2018.04.14 at 18h 47m 46s.xml">
+      <configuration name="TestExecution (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestExecution_(1) - 2018.04.14 at 18h 55m 18s.xml">
+      <configuration name="TestExecution (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestExecution_(1) - 2018.04.14 at 18h 57m 16s.xml">
+      <configuration name="TestExecution (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestExecution - 2018.05.19 at 01h 44m 44s.xml">
+      <configuration name="TestExecution" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

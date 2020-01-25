@@ -1,0 +1,1 @@
+Keyword-driven testing of WebUI apps with Selenium WebDriver and TestNG | Added functionalities include contiguous testing and reuse of browser sessions, modularized test scripts, reusable data-sets, control of test step sequence on pass/fail points
