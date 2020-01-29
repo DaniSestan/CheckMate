@@ -66,7 +66,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Drivers/MicrosoftWebDriver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -281,7 +281,7 @@
       <workItem from="1579707756856" duration="28477000" />
       <workItem from="1579740312395" duration="10519000" />
       <workItem from="1579752504047" duration="2309000" />
-      <workItem from="1579795574514" duration="22492000" />
+      <workItem from="1579795574514" duration="23177000" />
     </task>
     <servers />
   </component>
