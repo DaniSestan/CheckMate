@@ -11,7 +11,7 @@ CheckMate is an Java-based test automation framework using Selenium's webdriver.
 * **Keyword-Driven Testing:** with keywords, no coding is required to write test scripts. Testers can add and customize keywords that symbolize the functionalities used in testing.
 * **Data-Driven Testing:** allows users to easily create and manipulate large data sets and to test large volumes of data quickly.
 * **Reporting:** the framework automatically generates reports and screenshots of the tests, and prints the results to an html file in an easy-to-read format. Reports provide details about each test step, including specifics about where, when, and how the step was executed and what test data was used.
-* **Cross Browser and Platform:** Compatible with Windows and Linux and supports all major browsers.
+* **Cross Browser/Platform:** Compatible with Windows and Linux and supports all major browsers.
 * **Environments:** Build your tests once and run them against multiple environments or using different sets of test data.
 
 
