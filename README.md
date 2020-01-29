@@ -3,7 +3,7 @@
 
 <br/>
 
-CheckMate is an Java-based test automation framework using Selenium's webdriver. It's designed for web and REST API testing, implementing the following features: 
+CheckMate is an Java-based test automation framework using Selenium's automation tools. It's designed for web and REST API testing, implementing the following features: 
 
 <br/>
 
@@ -189,7 +189,7 @@ Some of the key tools and technologies used to build this application:
 * [Java (version 11.0.4)](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) - Project SDK
 * Webdrivers:
 	* [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) , [GeckoDriver](https://github.com/mozilla/geckodriver/releases), [MicrosoftWebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
-* [Selenium](https://selenium.dev/) - testing framework library
+* [Selenium](https://selenium.dev/) - provides the automation tools used for running tests in the web browser
 
 * [Apache POI](https://poi.apache.org/) - reading script data from .xlsl files.
 * [Apache Log4J](https://logging.apache.org/log4j/2.x/) - logging librarry for Java

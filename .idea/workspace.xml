@@ -16,6 +16,11 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/CheckMate$TestRun.coverage" NAME="TestRun Coverage Results" MODIFIED="1523784902873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.daniasestan.checkmate.ReportUtils.*</FILTER>
@@ -282,6 +287,8 @@
       <workItem from="1579740312395" duration="10519000" />
       <workItem from="1579752504047" duration="2309000" />
       <workItem from="1579795574514" duration="23177000" />
+      <workItem from="1580334972610" duration="135000" />
+      <workItem from="1580336167442" duration="251000" />
     </task>
     <servers />
   </component>
