@@ -1,5 +1,5 @@
 # CheckMate: Test Automation Framework
-<img src="https://github.com/DaniSestan/CheckMate/raw/master/images/checkmate.png" alt="Checkmate" title="A cute kitten" width="25%" height="25%" />
+<img src="https://github.com/DaniSestan/CheckMate/raw/master/images/checkmate.png" alt="Checkmate" title="CheckMate" width="25%" height="25%" />
 
 <br/>
 
